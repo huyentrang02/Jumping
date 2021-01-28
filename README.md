@@ -1,4 +1,5 @@
 # Jumping
+
 Thể loại : tự do
 Ý tưởng : Nhảy lên các thanh ngang để lấy điểm, rơi xuống là chết
 Các chức năng:
